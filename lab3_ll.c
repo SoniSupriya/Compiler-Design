@@ -100,7 +100,6 @@ int main() {
         }
         printf("\n");
     }
-
     printf("\nSUCCESS\n");
     return 0;
 }
